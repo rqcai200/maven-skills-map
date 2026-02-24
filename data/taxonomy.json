@@ -1,0 +1,68 @@
+[
+  {
+    "skill_code": "A1",
+    "skill_name": "Strategy & Feasibility",
+    "category": "AI Product Development",
+    "description": "Identifying AI opportunities, judging what's realistic, roadmapping, and prioritization."
+  },
+  {
+    "skill_code": "A2",
+    "skill_name": "PRD & Specs",
+    "category": "AI Product Development",
+    "description": "Writing AI product specs, defining guardrails, acceptable failure rates."
+  },
+  {
+    "skill_code": "A3",
+    "skill_name": "Eval & Iteration",
+    "category": "AI Product Development",
+    "description": "Measuring AI quality, building eval datasets, prompt iteration, A/B testing."
+  },
+  {
+    "skill_code": "A4",
+    "skill_name": "Shipping & Lifecycle",
+    "category": "AI Product Development",
+    "description": "Prototype to production, monitoring, reliability, managing the full product lifecycle."
+  },
+  {
+    "skill_code": "A5",
+    "skill_name": "Prototyping & Vibe Coding",
+    "category": "AI Product Development",
+    "description": "Using AI coding tools to rapidly build functional prototypes and ship products without traditional engineering."
+  },
+  {
+    "skill_code": "B1",
+    "skill_name": "Models & Selection",
+    "category": "AI Technical Skills",
+    "description": "Understanding model capabilities/limits, comparing models, cost/latency/quality tradeoffs."
+  },
+  {
+    "skill_code": "B2",
+    "skill_name": "System Architecture",
+    "category": "AI Technical Skills",
+    "description": "Embeddings, vector databases, APIs, inference infrastructure."
+  },
+  {
+    "skill_code": "B3",
+    "skill_name": "Agents & RAG",
+    "category": "AI Technical Skills",
+    "description": "Building agents, RAG systems, multi-step workflows."
+  },
+  {
+    "skill_code": "D1",
+    "skill_name": "Communication & Influence",
+    "category": "PM Leadership",
+    "description": "Storytelling, presenting to execs, persuading without authority, stakeholder management, managing up."
+  },
+  {
+    "skill_code": "D2",
+    "skill_name": "Management & Team Dev",
+    "category": "PM Leadership",
+    "description": "Feedback, delegation, hiring, 1:1s, new manager fundamentals, executive presence."
+  },
+  {
+    "skill_code": "E1",
+    "skill_name": "Design",
+    "category": "Design",
+    "description": "Design systems, visual design, behavioral design, AI-native UX patterns."
+  }
+]

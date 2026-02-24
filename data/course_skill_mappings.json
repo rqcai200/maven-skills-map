@@ -1,0 +1,4503 @@
+[
+  {
+    "course_id": 28,
+    "course_name": "FP&A Bootcamp",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 95,
+    "course_name": "Personal Branding Masterclass",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 264,
+    "course_name": "MGMT Accelerator: AI-Enhanced Leadership",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 296,
+    "course_name": "AI Product Management 101 & Certification - Building AI Products end-to-end",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "DALL-E",
+      "GPT-4",
+      "Google Colab",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 305,
+    "course_name": "Tiny Marketing Actions",
+    "skills": [],
+    "tools": [
+      "ChatGPT"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 310,
+    "course_name": "The 20 Hour CEO",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 379,
+    "course_name": "The AI & Learning Design Bootcamp",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Custom GPTs",
+      "Gemini",
+      "NotebookLM",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 435,
+    "course_name": "The Art, Science & Business of Community",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 468,
+    "course_name": "Make Better Decisions",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 502,
+    "course_name": "Communication and Stakeholder Management for PMs",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 681,
+    "course_name": "Success Through Persuasive Storytelling",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 690,
+    "course_name": "Influence Without Authority",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 718,
+    "course_name": "Level Up with Figma",
+    "skills": [
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Cursor",
+      "Figma"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 723,
+    "course_name": "Design System Bootcamp",
+    "skills": [
+      {
+        "code": "E1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 762,
+    "course_name": "Designing Your Next Career Step",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 1152,
+    "course_name": "How to Document Your Business Processes",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 1176,
+    "course_name": "Unlock your app's growth and maximize revenues",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 1208,
+    "course_name": "Accelerating Innovation with A/B Testing",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 1253,
+    "course_name": "Fast track to World-class Senior Engineer",
+    "skills": [],
+    "tools": [
+      "ChatGPT"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 1442,
+    "course_name": "Fearless Feedback Mastery: Driving Performance for Managers & Leaders",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 1511,
+    "course_name": "AI Product Sense & AI PM Interview Lab",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 1535,
+    "course_name": "Scale Business Intelligence with AI",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "GPT-4",
+      "Hugging Face",
+      "Midjourney",
+      "Stable Diffusion"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 1845,
+    "course_name": "Management Mastery - Communicate with Influence",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 2011,
+    "course_name": "The Art of SaaS, AI and Agentic Pricing",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 2250,
+    "course_name": "AI powered People Ops",
+    "skills": [
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Make",
+      "Notion AI",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 2616,
+    "course_name": "AI-Powered Strategic Design Accelerator",
+    "skills": [
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 3847,
+    "course_name": "Agentic AI System Design for PMs",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code",
+      "GPT-4",
+      "Gemini",
+      "Hugging Face",
+      "LangChain",
+      "Lovable",
+      "OpenAI API",
+      "Perplexity",
+      "Zapier",
+      "n8n"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 4360,
+    "course_name": "The Fractional CFO and Advisory Mastermind & Community",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 4776,
+    "course_name": "Design Leadership at Scale: Executive",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 4934,
+    "course_name": "Thinking in Visual Metaphors",
+    "skills": [
+      {
+        "code": "E1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 4968,
+    "course_name": "Dynamic Excel for Finance",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 5016,
+    "course_name": "AI-ML Projects for Data Professionals",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Hugging Face"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 5102,
+    "course_name": "Persuading People: The PM's Edge in the Age of AI",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 5168,
+    "course_name": "Board Paper Bootcamp",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 5680,
+    "course_name": "Product-led Growth in B2B",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 5858,
+    "course_name": "Engineering Leadership in the AI Era",
+    "skills": [
+      {
+        "code": "D2",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 5969,
+    "course_name": "Build an AI-confident Product Team",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 6026,
+    "course_name": "Punchy Messaging for B2B Tech Marketing",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 6087,
+    "course_name": "Customer Jobs-to-be-Done Fundamentals",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 6261,
+    "course_name": "Cash Flow Forecasting and Modeling - Level 1",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 6353,
+    "course_name": "Describing the ROI of Design",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 6474,
+    "course_name": "Advanced AI Product Leadership Certification",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "DALL-E",
+      "GPT-4",
+      "Gemini",
+      "Google Colab",
+      "LangChain",
+      "OpenAI API",
+      "Perplexity",
+      "Pinecone",
+      "Zapier"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 6488,
+    "course_name": "Advanced Financial and Business Modeling for Growth, Turnaround, and Recovery",
+    "skills": [],
+    "tools": [
+      "Copilot"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 6877,
+    "course_name": "Modern Forecasting in Practice",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 7038,
+    "course_name": "Behavioral Science for Product and User Experience Design",
+    "skills": [
+      {
+        "code": "E1",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 7336,
+    "course_name": "AI x Creative Accelerator",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Lovable",
+      "Midjourney",
+      "Perplexity",
+      "Stable Diffusion"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 7681,
+    "course_name": "Productize Your Service Business",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 7706,
+    "course_name": "Level up on Linkedin Accelerator",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 7983,
+    "course_name": "Beyond Senior Manager - Break Through to Strategic Executive",
+    "skills": [],
+    "tools": [
+      "ChatGPT"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 8071,
+    "course_name": "AI Product Management Bootcamp & Certification by AI Product Academy",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "DALL-E",
+      "GPT-4",
+      "Gemini",
+      "Google Colab",
+      "Perplexity",
+      "Zapier"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 8076,
+    "course_name": "Design Apps Faster in Figma, Deliver with Confidence",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 8122,
+    "course_name": "Brand for Growth-Stage Leaders: The 2026 Playbook",
+    "skills": [],
+    "tools": [
+      "Figma",
+      "Notion AI"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 8258,
+    "course_name": "Managing Data for Finance Powered by Microsoft Power Query",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 8259,
+    "course_name": "FP&A Technical Fluency and Strategic Thinking",
+    "skills": [],
+    "tools": [
+      "Copilot"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 8324,
+    "course_name": "AI Customer Research Analysis for Designers, Researchers and PMs",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Custom GPTs",
+      "Gemini",
+      "Notion AI"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 8398,
+    "course_name": "AI-Powered Project Management",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Custom GPTs",
+      "Gemini",
+      "NotebookLM",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 8400,
+    "course_name": "eCommerce 201",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 8428,
+    "course_name": "The Product Storytelling Cohort",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Zapier"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 8505,
+    "course_name": "User Interview Skills for Designers & PMs",
+    "skills": [],
+    "tools": [
+      "ChatGPT"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 8548,
+    "course_name": "Game Production \u2013 Think Like a Game Producer & Ship Games!",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 8566,
+    "course_name": "Financial Fluency for Product Leaders",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 8963,
+    "course_name": "Agentic AI for Leaders",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 9308,
+    "course_name": "Advanced AI Prompting for In-House Legal - 201",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 9649,
+    "course_name": "Senior Engineer to Lead: Grow and thrive in the role",
+    "skills": [
+      {
+        "code": "D2",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 9685,
+    "course_name": "Data Informed Design: How to Pitch Why Your Design Work Matters",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Figma"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 9754,
+    "course_name": "AI Prompting for In-House Legal - 101",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 9759,
+    "course_name": "Unleashing Revenue Operations Impact",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 9991,
+    "course_name": "World-class Product Sense in Practice",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 10033,
+    "course_name": "Cracking the C-suite 'How to Get and Master Key Executive Roles'",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 10132,
+    "course_name": "AI Lab for Lawyers",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Custom GPTs",
+      "Midjourney"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 10144,
+    "course_name": "Agent Engineering Bootcamp: Developers Edition",
+    "skills": [
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "GPT-4",
+      "Hugging Face",
+      "LangGraph",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 10263,
+    "course_name": "PM Masterclass for Designers",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Figma"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 10338,
+    "course_name": "The AI Engineering Bootcamp",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "LangChain",
+      "LangGraph",
+      "OpenAI API"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 10399,
+    "course_name": "Executive Alignment for Enterprise Operations and Governance",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 10734,
+    "course_name": "Self-Paced PM Interview Bootcamp: Product Sense & Analytical Thinking",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Copilot"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 10748,
+    "course_name": "Executive Communication & Influence for Senior ICs and Managers",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 10909,
+    "course_name": "AI for Strategic Content Marketing: Building the Future of Engagement",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "LangChain",
+      "Midjourney",
+      "NotebookLM",
+      "Perplexity",
+      "Stable Diffusion",
+      "Zapier",
+      "n8n"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 10930,
+    "course_name": "Build with AI: Mindset, Habits & Tools for the Next 20 Years",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Cursor",
+      "DALL-E",
+      "GPT-4",
+      "Gemini",
+      "Hugging Face",
+      "LangChain",
+      "OpenAI API",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 11008,
+    "course_name": "Mastering AI Skills For Marketers",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 11012,
+    "course_name": "Strategic Localization Certification",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 11159,
+    "course_name": "AI Agents for Pragmatic Builders - Claude Code, LangGraph, n8n",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 11227,
+    "course_name": "Agentic AI Product Management Certification",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "n8n"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 11252,
+    "course_name": "AI Product Management Certification",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Cursor"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 11258,
+    "course_name": "PM Interview Bootcamp",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Claude",
+      "Cursor",
+      "Devin",
+      "Lovable",
+      "Perplexity",
+      "Replit",
+      "Windsurf",
+      "Zapier"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 11285,
+    "course_name": "Applied Conformal Prediction",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 11566,
+    "course_name": "AI Product Leadership Certification ",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 11646,
+    "course_name": "AI Systems Design & Inference Engineering",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 11750,
+    "course_name": "AI for Product Designers",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "Figma",
+      "Gemini",
+      "Lovable",
+      "NotebookLM",
+      "OpenAI API",
+      "Perplexity",
+      "Replit",
+      "Windsurf"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 11961,
+    "course_name": "Cash Flow Mastery: Deep Dive Modeling - Level 2",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 11985,
+    "course_name": "Designing Generative AI for conversations and content",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "GPT-4",
+      "LangChain",
+      "LangGraph"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 12026,
+    "course_name": "Communication Strategies for Managers",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 12048,
+    "course_name": "Python Forecasting Masterclass: From Foundations to State-of-the-Art",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 12061,
+    "course_name": "AI-Supercharged Storytelling & Data Analysis for Leaders and Managers",
+    "skills": [
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Gemini"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 12101,
+    "course_name": "MGMT Fundamentals - Foundational Skills for New Managers",
+    "skills": [
+      {
+        "code": "D2",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 12177,
+    "course_name": "Staff Designer: Influence & Lead as an Individual Contributor",
+    "skills": [
+      {
+        "code": "D2",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 12195,
+    "course_name": "Prototype to Production: The AI PM Playbook",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "Lovable",
+      "Perplexity",
+      "Replit"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 12238,
+    "course_name": "The Billion Person Focus Group\u00ae - Find the Truths Traditional Research Misses",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 12242,
+    "course_name": "Become an AI Product Designer",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "Figma",
+      "Gemini",
+      "Hugging Face",
+      "LangGraph",
+      "Lovable",
+      "Make",
+      "Midjourney",
+      "Notion AI",
+      "Perplexity",
+      "Replit",
+      "Stable Diffusion",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 12327,
+    "course_name": "Systematically Improving RAG Applications",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "GPT-4",
+      "Gemini",
+      "Hugging Face",
+      "LangChain",
+      "LangGraph",
+      "OpenAI API"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 12484,
+    "course_name": "AI Builders Bootcamp",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Cursor",
+      "Hugging Face"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 12532,
+    "course_name": "How AI & LLMs Work: A Fast-Track Crash Course for Busy Professionals",
+    "skills": [
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 12837,
+    "course_name": "Master Executive Presence & Communication with AI",
+    "skills": [],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 12919,
+    "course_name": "Scale Your Leadership with the Executive Mindset",
+    "skills": [
+      {
+        "code": "D2",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 12936,
+    "course_name": "The Breakout Leader: Cultivating the Courage for Bold Moves",
+    "skills": [
+      {
+        "code": "D2",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13032,
+    "course_name": "How To Scale A Business With AI & Agentic Workflows - Foundations",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13182,
+    "course_name": "Elite AI Product Leadership Certification by AI Product Academy",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13291,
+    "course_name": "Product Strategy Workshop",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13300,
+    "course_name": "ROI of Data & AI: How to demonstrate & maximise your impact",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 13392,
+    "course_name": "Technical Foundations & AI Prototyping for Product Managers",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Figma"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 13409,
+    "course_name": "Prototyping with AI Bootcamp",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "Gemini",
+      "Lovable",
+      "Make",
+      "OpenAI API",
+      "Perplexity",
+      "Replit",
+      "Zapier",
+      "v0"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 13431,
+    "course_name": "AI Red Teaming & AI Security Masterclass",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Cursor",
+      "GPT-4",
+      "Gemini",
+      "Lovable",
+      "Midjourney",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 13474,
+    "course_name": "The AI Marketing System for Top Real Estate Agents",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Gemini"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 13500,
+    "course_name": "Revenue Drivers: An AI Workshop for Sellers and Customer-Facing Teams",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13556,
+    "course_name": "Level up the impact of your UX research",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13655,
+    "course_name": "Design Job Search: Strategy & Tactics",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13693,
+    "course_name": "Advanced Topics in Practical A/B Testing",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13822,
+    "course_name": "Building AI Applications for Data Scientists and Software Engineers",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13862,
+    "course_name": "Master Market-Ready Agentic AI Workflows: Step-by-Step, No Code Required",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13866,
+    "course_name": "Master UX Design for AI",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Figma",
+      "GPT-4",
+      "Gemini",
+      "LangChain",
+      "Midjourney",
+      "NotebookLM",
+      "Notion AI",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 13923,
+    "course_name": "API Fundamentals for Product Managers",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 13932,
+    "course_name": "Personal Branding & Social Selling on Linkedin",
+    "skills": [],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "DALL-E",
+      "Midjourney",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 13985,
+    "course_name": "Hands-on Agentic AI for Leaders",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "Gemini",
+      "NotebookLM",
+      "Notion AI",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 14039,
+    "course_name": "AEO Masterclass: AI Search Beyond SEO",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 14059,
+    "course_name": "Actionable AI For Marketers",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Gemini",
+      "Midjourney",
+      "OpenAI API",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 14084,
+    "course_name": "Leadership Masterclass - Level Up Your Executive Visibility",
+    "skills": [
+      {
+        "code": "D2",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 14196,
+    "course_name": "How to Become a Supermanager with AI",
+    "skills": [
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "Custom GPTs",
+      "Gemini",
+      "Lovable",
+      "Replit",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 14248,
+    "course_name": "AI Prototyping for Product Managers",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Cursor",
+      "Figma",
+      "Lovable",
+      "Replit",
+      "v0"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 14289,
+    "course_name": "AI for Customer Research: Future-Proof Your UX & Product Skills",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Figma",
+      "Gemini",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 14398,
+    "course_name": "AI Mastery for Business Leaders",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Custom GPTs",
+      "Figma",
+      "Gemini",
+      "LangChain",
+      "Make",
+      "NotebookLM",
+      "Notion AI",
+      "Perplexity",
+      "Zapier",
+      "n8n"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 14554,
+    "course_name": "Building Agentic AI Applications with a Problem-First Approach",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "Figma",
+      "Gemini",
+      "Hugging Face",
+      "LangChain",
+      "LangGraph",
+      "NotebookLM",
+      "OpenAI API",
+      "Perplexity",
+      "Pinecone",
+      "Zapier",
+      "v0"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 14576,
+    "course_name": "API Product Mastery for Experienced PMs",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "OpenAI API",
+      "Replit"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 14595,
+    "course_name": "Agentic Artificial Intelligence for Leaders",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "GPT-4",
+      "LangChain"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 14682,
+    "course_name": "Acing Engineering Manager Interviews",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 14715,
+    "course_name": "User-Centric Product-led Growth in the AI Era",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Figma",
+      "Lovable"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 14768,
+    "course_name": "Develop CPO-Level Skills",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 14937,
+    "course_name": "AI Evals For Engineers & PMs",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "LangChain",
+      "LangGraph",
+      "OpenAI API"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 14980,
+    "course_name": "Rapid AI Traction for Senior Leadership Teams",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "Gemini",
+      "Lovable",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 15005,
+    "course_name": "Learn Healthcare UX Certification",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 15015,
+    "course_name": "FP&A Mastery Signature Program - Track A",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15040,
+    "course_name": "Outstanding: Get the Recognition & Sponsorship You Deserve",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15054,
+    "course_name": "ManagerGPT: The AI Tools and Human Systems to Scale Yourself and Your Team Fast",
+    "skills": [
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "Custom GPTs",
+      "Gemini",
+      "Lovable",
+      "NotebookLM",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 15251,
+    "course_name": "Modern Forecasting Mastery: From Models to Decisions",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15277,
+    "course_name": "AI Agent Builder Bootcamp",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "OpenAI API",
+      "Perplexity",
+      "Zapier",
+      "n8n"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 15297,
+    "course_name": "Build Your Engineering Management Operating System",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15393,
+    "course_name": "AI Agents for Product Leaders Certification ",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "GPT-4",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 15429,
+    "course_name": "AI in Marketing Bootcamp: 4 weeks",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Figma",
+      "Lovable",
+      "Make",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 15495,
+    "course_name": "Cheat at Search with Agents",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15531,
+    "course_name": "Exit Ready: The CEO's Guide to Strategic M&A",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15629,
+    "course_name": "Master Enterprise-Grade AI Agents in 2026",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Relay"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 15630,
+    "course_name": "From Full-Time to Fractional: A Step-by-Step Launch Playbook for Senior Leaders",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15722,
+    "course_name": "Lead AI Projects Without Technical Skills",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 15766,
+    "course_name": "End-to-End AI Engineering Bootcamp",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Copilot",
+      "Cursor",
+      "GPT-4",
+      "Gemini",
+      "Google Colab",
+      "Hugging Face",
+      "LangChain",
+      "LangGraph",
+      "OpenAI API",
+      "Pinecone"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 15899,
+    "course_name": "From Vibe to Live: Build and Deploy Production AI Agents",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Cursor",
+      "GPT-4",
+      "LangChain",
+      "LangGraph",
+      "OpenAI API",
+      "Windsurf"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 16045,
+    "course_name": "Interview Mastery: The Science of Hired",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16102,
+    "course_name": "AI Agent Engineering: From ReAct, Agentic RAG to Multi-Agent Orchestration",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16104,
+    "course_name": "AI Builder Bootcamp for Product People",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "Lovable",
+      "n8n"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 16112,
+    "course_name": "Get Promoted Faster: For ICs & Managers",
+    "skills": [],
+    "tools": [
+      "ChatGPT",
+      "Custom GPTs"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16123,
+    "course_name": "AI-powered Behavioral Design Sprint",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16169,
+    "course_name": "AI PM Expert Track: Claude Code, AI Product Sense & Interview Preparation",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Gemini",
+      "Lovable",
+      "OpenAI API",
+      "Perplexity",
+      "Replit",
+      "v0"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 16349,
+    "course_name": "UX Strategy for Devising AI-Driven Products",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Figma"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16383,
+    "course_name": "AB Testing for Data Scientists & Product Managers",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16409,
+    "course_name": "UX & Design for Today's AI Functionality",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Cursor"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16576,
+    "course_name": "Scratch to Scale: Large-Scale Training in the Modern World",
+    "skills": [
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Cursor",
+      "Hugging Face"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16605,
+    "course_name": "The Influential PM: Strategy, Stakeholders, Significance",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16711,
+    "course_name": "Agent-First Software Engineering",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16804,
+    "course_name": "Build Production-Ready AI Products: Advanced AI Product Management",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16845,
+    "course_name": "AI Product Strategy Certificate for Leaders",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16874,
+    "course_name": "AI-Ready Woman",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 16876,
+    "course_name": "Become an Agentic Architect",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "GPT-4",
+      "Gemini",
+      "Hugging Face",
+      "LangChain",
+      "LangGraph",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16906,
+    "course_name": "Agent Engineering Bootcamp",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 16943,
+    "course_name": "UX Design for Agentic AI",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "Custom GPTs",
+      "DALL-E",
+      "Figma",
+      "Gemini",
+      "LangChain",
+      "LangGraph",
+      "Midjourney",
+      "Notion AI",
+      "Perplexity",
+      "Replit",
+      "Windsurf",
+      "Zapier",
+      "n8n"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16972,
+    "course_name": "Design Patterns For AI Products In 2026",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Figma",
+      "Gemini",
+      "Hugging Face",
+      "Lovable",
+      "Zapier"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 16984,
+    "course_name": "AI Engineering Buildcamp: From RAG to Agents",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "GPT-4",
+      "Gemini",
+      "Google Colab",
+      "LangChain",
+      "LangGraph",
+      "Lovable",
+      "NotebookLM",
+      "OpenAI API",
+      "Pinecone"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 17014,
+    "course_name": "Elite AI Assisted Coding",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17019,
+    "course_name": "Escape Velocity: The 100K AI Product Fast Track",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Claude",
+      "Copilot",
+      "Cursor",
+      "DALL-E",
+      "Figma",
+      "GPT-4",
+      "Gemini",
+      "LangChain",
+      "Lovable",
+      "Midjourney",
+      "OpenAI API",
+      "Perplexity",
+      "Replit",
+      "Zapier",
+      "v0"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 17115,
+    "course_name": "The Ultimate Interview Course for Designers",
+    "skills": [],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Figma",
+      "Gemini",
+      "Perplexity"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 17186,
+    "course_name": "The AI Builders guild",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Custom GPTs",
+      "Gemini",
+      "Lovable",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17192,
+    "course_name": "Vibe Coding For Designers ",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Cursor"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17253,
+    "course_name": "FP&A Mastery Signature Program - Track B",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 17292,
+    "course_name": "Vibe Code Production-Ready Side Projects",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code",
+      "Replit"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17381,
+    "course_name": "AI Prototyping for Product Designers",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Copilot",
+      "Cursor",
+      "DALL-E",
+      "Figma",
+      "Gemini",
+      "Hugging Face",
+      "Lovable",
+      "Midjourney",
+      "Replit",
+      "Stable Diffusion",
+      "Windsurf",
+      "v0"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17392,
+    "course_name": "GTM Engineer Foundations",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Claude",
+      "DALL-E",
+      "Zapier"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17433,
+    "course_name": "AI-Powered Search: Modern Retrieval for Humans & Agents",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 17487,
+    "course_name": "Gen Marketer Bootcamp: B2B Startup Marketing for the AI Era",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Lovable",
+      "Relay"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17622,
+    "course_name": "Stronger Executive Presence:  Be Visible, Gain Influence, & Drive Your Career",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 17646,
+    "course_name": "AI Engineering Bootcamp & Certificate",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "B2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Cursor",
+      "Hugging Face",
+      "LangChain",
+      "LangGraph"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17810,
+    "course_name": "AI for Strategic Research: Deepen Your Insights Without Automating Your Craft",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Figma",
+      "Gemini",
+      "NotebookLM",
+      "Replit"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17830,
+    "course_name": "AI Superpower: Build & Ship Your Production AI Agent in 3 Weeks",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Cursor",
+      "Gemini",
+      "LangChain",
+      "Lovable",
+      "Zapier",
+      "n8n"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 17883,
+    "course_name": "AI Evals and Analytics Playbook",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 18044,
+    "course_name": "Build AI Product Sense",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 18065,
+    "course_name": "Claude Code for Product Managers",
+    "skills": [
+      {
+        "code": "A4",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code",
+      "Cursor"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18088,
+    "course_name": "Decision-Making with ChatGPT",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.8
+      },
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Custom GPTs"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18103,
+    "course_name": "AI Software Development: From First Prompt to Production Code",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18106,
+    "course_name": "Building a Personal Brand",
+    "skills": [],
+    "tools": [
+      "ChatGPT",
+      "Claude"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 18122,
+    "course_name": "Executive Lens Simulation: Leading through Alignment, Friction and Influence",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 18233,
+    "course_name": "World-class Product Strategy for Founders & Executives",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 18246,
+    "course_name": "AI Systems for Marketers: Save 5-10 Hours Weekly and Scale Your Impact",
+    "skills": [
+      {
+        "code": "B1",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Custom GPTs",
+      "Gemini",
+      "Perplexity"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18260,
+    "course_name": "AI Agent Certification",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "Relay"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18328,
+    "course_name": "AI Evals for PMs Certification",
+    "skills": [
+      {
+        "code": "A3",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "GPT-4",
+      "Hugging Face",
+      "OpenAI API",
+      "Perplexity",
+      "Pinecone",
+      "Replit"
+    ],
+    "tool_weight": 0.3
+  },
+  {
+    "course_id": 18347,
+    "course_name": "B2B Influencer Marketing: How to Plan and Run Effective Campaigns",
+    "skills": [],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 18354,
+    "course_name": "Agentic AI for Research: Build Custom Workflows & Synthetic Users",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 18380,
+    "course_name": "AI Agent Certification for Product Managers",
+    "skills": [
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 18390,
+    "course_name": "Ship with Claude Code and Replit",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Claude",
+      "Claude Code",
+      "Replit"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18496,
+    "course_name": "Level Up to Product Super IC with AI",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "Bolt",
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "Figma",
+      "Lovable",
+      "Replit"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18691,
+    "course_name": "Claude for Builders: AI Workflows and Product Prototyping",
+    "skills": [
+      {
+        "code": "A2",
+        "weight": 0.8
+      },
+      {
+        "code": "B3",
+        "weight": 0.8
+      },
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "A4",
+        "weight": 0.3
+      },
+      {
+        "code": "B2",
+        "weight": 0.3
+      },
+      {
+        "code": "A5",
+        "weight": 0.8
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "Gemini"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18820,
+    "course_name": "The Anatomy of a Great Conversation",
+    "skills": [
+      {
+        "code": "D1",
+        "weight": 0.8
+      }
+    ],
+    "tools": [],
+    "tool_weight": 0
+  },
+  {
+    "course_id": 18916,
+    "course_name": "AI-Ready School Leaders (Certification Program)",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "B1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "NotebookLM"
+    ],
+    "tool_weight": 0.8
+  },
+  {
+    "course_id": 18946,
+    "course_name": "Learn to Control AI like a Creative Director",
+    "skills": [
+      {
+        "code": "A1",
+        "weight": 0.3
+      },
+      {
+        "code": "A3",
+        "weight": 0.3
+      },
+      {
+        "code": "E1",
+        "weight": 0.3
+      }
+    ],
+    "tools": [
+      "ChatGPT",
+      "Gemini",
+      "Midjourney"
+    ],
+    "tool_weight": 0.8
+  }
+]
