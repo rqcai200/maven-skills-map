@@ -36,19 +36,19 @@ Building agents, RAG systems, multi-step workflows.
 
 ---
 
-# D. PM Leadership
+# C. PM Leadership
 
-## D1. Communication & Influence
+## C1. Communication & Influence
 Storytelling, presenting to execs, persuading without authority, stakeholder management, managing up.
 
-## D2. Management & Team Dev
+## C2. Management & Team Dev
 Feedback, delegation, hiring, 1:1s, new manager fundamentals, executive presence.
 
 ---
 
-# E. Design
+# D. Design
 
-## E1. Design
+## D1. Design
 Design systems, visual design, behavioral design, AI-native UX patterns.
 
 ---
