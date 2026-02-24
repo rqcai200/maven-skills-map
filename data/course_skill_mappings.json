@@ -64,7 +64,7 @@
     "course_name": "The 20 Hour CEO",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -96,7 +96,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -123,7 +123,7 @@
     "course_name": "Make Better Decisions",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -135,7 +135,7 @@
     "course_name": "Communication and Stakeholder Management for PMs",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -147,7 +147,7 @@
     "course_name": "Success Through Persuasive Storytelling",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -159,7 +159,7 @@
     "course_name": "Influence Without Authority",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -171,7 +171,7 @@
     "course_name": "Level Up with Figma",
     "skills": [
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -190,7 +190,7 @@
     "course_name": "Design System Bootcamp",
     "skills": [
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.8
       }
     ],
@@ -259,7 +259,7 @@
     "course_name": "Fearless Feedback Mastery: Driving Performance for Managers & Leaders",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -325,7 +325,7 @@
     "course_name": "Management Mastery - Communicate with Influence",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -383,7 +383,7 @@
     "course_name": "AI-Powered Strategic Design Accelerator",
     "skills": [
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -419,7 +419,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -461,7 +461,7 @@
     "course_name": "Thinking in Visual Metaphors",
     "skills": [
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.8
       }
     ],
@@ -507,7 +507,7 @@
     "course_name": "Board Paper Bootcamp",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -533,7 +533,7 @@
     "course_name": "Engineering Leadership in the AI Era",
     "skills": [
       {
-        "code": "D2",
+        "code": "C2",
         "weight": 0.8
       }
     ],
@@ -598,7 +598,7 @@
     "course_name": "Describing the ROI of Design",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -680,7 +680,7 @@
     "course_name": "Behavioral Science for Product and User Experience Design",
     "skills": [
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.8
       },
       {
@@ -800,7 +800,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -1002,7 +1002,7 @@
     "course_name": "Senior Engineer to Lead: Grow and thrive in the role",
     "skills": [
       {
-        "code": "D2",
+        "code": "C2",
         "weight": 0.8
       }
     ],
@@ -1026,7 +1026,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -1154,7 +1154,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -1250,7 +1250,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -1542,7 +1542,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -1599,7 +1599,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -1617,7 +1617,7 @@
     "course_name": "Communication Strategies for Managers",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -1659,7 +1659,7 @@
     "course_name": "MGMT Fundamentals - Foundational Skills for New Managers",
     "skills": [
       {
-        "code": "D2",
+        "code": "C2",
         "weight": 0.8
       }
     ],
@@ -1671,7 +1671,7 @@
     "course_name": "Staff Designer: Influence & Lead as an Individual Contributor",
     "skills": [
       {
-        "code": "D2",
+        "code": "C2",
         "weight": 0.8
       }
     ],
@@ -1740,7 +1740,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -1773,7 +1773,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -1920,7 +1920,7 @@
     "course_name": "Scale Your Leadership with the Executive Mindset",
     "skills": [
       {
-        "code": "D2",
+        "code": "C2",
         "weight": 0.8
       }
     ],
@@ -1932,7 +1932,7 @@
     "course_name": "The Breakout Leader: Cultivating the Courage for Bold Moves",
     "skills": [
       {
-        "code": "D2",
+        "code": "C2",
         "weight": 0.8
       }
     ],
@@ -2255,7 +2255,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -2403,7 +2403,7 @@
     "course_name": "Leadership Masterclass - Level Up Your Executive Visibility",
     "skills": [
       {
-        "code": "D2",
+        "code": "C2",
         "weight": 0.8
       }
     ],
@@ -2658,7 +2658,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -2763,7 +2763,7 @@
         "weight": 0.8
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -2908,7 +2908,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -3154,7 +3154,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -3190,7 +3190,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -3259,7 +3259,7 @@
         "weight": 0.8
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -3302,7 +3302,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -3500,7 +3500,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -3551,7 +3551,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -3666,7 +3666,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -3754,7 +3754,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -3819,7 +3819,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -4025,7 +4025,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       },
       {
@@ -4087,7 +4087,7 @@
         "weight": 0.8
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -4187,7 +4187,7 @@
     "course_name": "Executive Lens Simulation: Leading through Alignment, Friction and Influence",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -4314,7 +4314,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],
@@ -4448,7 +4448,7 @@
     "course_name": "The Anatomy of a Great Conversation",
     "skills": [
       {
-        "code": "D1",
+        "code": "C1",
         "weight": 0.8
       }
     ],
@@ -4489,7 +4489,7 @@
         "weight": 0.3
       },
       {
-        "code": "E1",
+        "code": "D1",
         "weight": 0.3
       }
     ],

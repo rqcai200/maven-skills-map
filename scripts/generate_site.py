@@ -23,8 +23,8 @@ CATEGORY_ORDER = [
 CATEGORY_LABELS = {
     "AI Product Development": "A. AI Product Development",
     "AI Technical Skills": "B. AI Technical Skills",
-    "PM Leadership": "D. PM Leadership",
-    "Design": "E. Design",
+    "PM Leadership": "C. PM Leadership",
+    "Design": "D. Design",
 }
 
 
@@ -273,8 +273,8 @@ a:hover{{ text-decoration:underline; }}
 .pill-topic{{ border-left-color:#509ee3; }}
 .pill-A{{ border-left-color:#d97706; }}
 .pill-B{{ border-left-color:#7c3aed; }}
-.pill-D{{ border-left-color:#4f46e5; }}
-.pill-E{{ border-left-color:#db2777; }}
+.pill-C{{ border-left-color:#4f46e5; }}
+.pill-D{{ border-left-color:#db2777; }}
 .pill-tool{{ border-left-color:#059669; }}
 
 /* Match bar */
@@ -330,8 +330,8 @@ a:hover{{ text-decoration:underline; }}
 .chip-topics{{ background:#eff6ff; color:#1d4ed8; border-color:#bfdbfe; }}
 .chip-A{{ background:#fffbeb; color:#b45309; border-color:#fde68a; }}
 .chip-B{{ background:#f5f3ff; color:#6d28d9; border-color:#ddd6fe; }}
-.chip-D{{ background:#eef2ff; color:#4338ca; border-color:#c7d2fe; }}
-.chip-E{{ background:#fdf2f8; color:#be185d; border-color:#fbcfe8; }}
+.chip-C{{ background:#eef2ff; color:#4338ca; border-color:#c7d2fe; }}
+.chip-D{{ background:#fdf2f8; color:#be185d; border-color:#fbcfe8; }}
 .chip-tools{{ background:#ecfdf5; color:#047857; border-color:#a7f3d0; }}
 .chip-x{{
   background:none; border:none; cursor:pointer; font-size:0.85rem;
