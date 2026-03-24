@@ -13,6 +13,23 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
 
+# Patterns that match password/passcode lines in syllabus text
+_PASSWORD_PATTERNS = [
+    # "Password: ..." or "password: ..." (with optional leading ***)
+    re.compile(r"^\**\s*[Pp]ass(?:word|code)\s*[:=]\s*.+", re.MULTILINE),
+    # "Passcode: ..." inside parentheses (Zoom recordings)
+    re.compile(r"[Pp]asscode\s*[:=]\s*\S+"),
+    # "enter the password XYZ"
+    re.compile(r"enter the password\s+\S+", re.IGNORECASE),
+]
+
+
+def strip_passwords(text: str) -> str:
+    """Remove password/passcode values from syllabus text."""
+    for pat in _PASSWORD_PATTERNS:
+        text = pat.sub("[PASSWORD REDACTED]", text)
+    return text
+
 
 def aggregate_course_profiles(raw_path: Path) -> list[dict]:
     """Group rows by COURSE_ID and concatenate syllabus text."""
@@ -44,7 +61,7 @@ def aggregate_course_profiles(raw_path: Path) -> list[dict]:
             "course_url": c["course_url"],
             "course_slug": c["course_slug"],
             "topics": c["topics"],
-            "syllabus_text": "\n\n".join(c["syllabus_parts"]),
+            "syllabus_text": strip_passwords("\n\n".join(c["syllabus_parts"])),
         })
 
     return sorted(profiles, key=lambda x: x["course_id"])
